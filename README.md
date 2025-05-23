@@ -19,9 +19,9 @@ Aplikasi Android sederhana dengan fitur Login dan Register
 
 ## Screenshots Tampilan
 ---
-<img src="screenshots/tampilan-login.png" />
-<img src="screenshots/tampilan-regis.png" />
-<img src="screenshots/tampilan-main.png" />
+<img src="screenshots/tampil-login.png" />
+<img src="screenshots/tampil-regis.png" />
+<img src="screenshots/tampil-main.png" />
 
 ## HASIL UJI COBA EMULATOR
 ---
