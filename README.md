@@ -25,12 +25,12 @@ Aplikasi Android sederhana dengan fitur Login dan Register
 
 ## HASIL UJI COBA EMULATOR
 ---
-###Fungsionalitas Login & Main Activity
+Fungsionalitas Login & Main Activity
 ---
 <img src="screenshots/login.png" />    <img src="screenshots/login-usn-or-pass-wrong.png" />
 <img src="screenshots/login-work.png" />
 
-###Fungsionalitas Register
+Fungsionalitas Register
 ---
 <img src="screenshots/regis-pass-less-6.png" />       <img src="screenshots/regis-email-not-valid.png" />
 <img src="screenshots/regis-work-1.png" width="400" height="600" />            <img src="screenshots/regis-work-2.png" width="400" height="600" />
