@@ -33,8 +33,8 @@ Tampilan Fungsionalitas Register
 ## Data Diri
 ---
 Nama: Bayu Sebastian
-NIM: 220320001
-Prodi: Informatika
+<br> NIM: 220320001
+<br> Prodi: Informatika
 
 ### Note
 ---
