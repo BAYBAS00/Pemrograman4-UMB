@@ -25,5 +25,5 @@ Tampilan Login
 
 Tampilan Register
 ---
-<img src="screenshots/regis-pass-less-6.png" />
-<img src="screenshots/regis-email-not-valid.png" />
+<img src="screenshots/regis-pass-less-6.png" /> <img src="screenshots/regis-email-not-valid.png" />
+
