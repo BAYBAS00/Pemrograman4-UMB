@@ -21,7 +21,8 @@ Aplikasi Android sederhana dengan fitur Login dan Register
 ---
 Tampilan Login
 ---
-<img src="screenshots/login.png" />                  
+<img src="screenshots/login.png" />    <img src="screenshots/login-usn-or-pass-wrong.png" />
+<img src="screenshots/login-work.png" />
 
 Tampilan Register
 ---
