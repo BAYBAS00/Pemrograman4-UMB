@@ -1,36 +1,42 @@
-## Pemrograman4-UMB
+# Pemrograman4-UMB
 Aplikasi Android sederhana dengan fitur Login dan Register
 
-### Fitur Aplikasi
+## Fitur Aplikasi
 ---
 - **Register**: Untuk membuat akun baru.
 - **Login**: Untuk masuk ke aplikasi dengan akun yang sudah didaftarkan.
 - **Main Activity**: Tampilan utama berupa "Selamat Datang, Username!".
 - **Logout**: Untuk keluar dari akun dan kembali ke tampilan login.
 
-### Tools yang digunakan
+## Tools yang digunakan
 ---
 - Bahasa: Java
 - Backend: HTTP REST API dengan PHP
 
-### Alur Login & Register
+## Alur Login & Register
 ---
 <img src="screenshots/uts-pemrograman-4.png" />
 
-### Screenshots Aplikasi
+## Screenshots Tampilan
 ---
-Tampilan Fungsionalitas Login
+<img src="screenshots/tampilan-login.png" />
+<img src="screenshots/tampilan-regis.png" />
+<img src="screenshots/tampilan-main.png" />
+
+## HASIL UJI COBA EMULATOR
+---
+###Fungsionalitas Login & Main Activity
 ---
 <img src="screenshots/login.png" />    <img src="screenshots/login-usn-or-pass-wrong.png" />
 <img src="screenshots/login-work.png" />
 
-Tampilan Fungsionalitas Register
+###Fungsionalitas Register
 ---
 <img src="screenshots/regis-pass-less-6.png" />       <img src="screenshots/regis-email-not-valid.png" />
 <img src="screenshots/regis-work-1.png" width="400" height="600" />            <img src="screenshots/regis-work-2.png" width="400" height="600" />
 <img src="screenshots/regis-usn-used.png" />
 
-## Data Diri
+## DATA DIRI
 ---
 Nama: Bayu Sebastian
 <br> NIM: 220320001
