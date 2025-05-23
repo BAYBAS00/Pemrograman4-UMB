@@ -21,9 +21,12 @@ Aplikasi Android sederhana dengan fitur Login dan Register
 ---
 Tampilan Login
 ---
-<img src="screenshots/login.png" />
+<img src="screenshots/login.png" />                  
 
 Tampilan Register
 ---
-<img src="screenshots/regis-pass-less-6.png" /> <img src="screenshots/regis-email-not-valid.png" />
+<img src="screenshots/regis-pass-less-6.png" />       <img src="screenshots/regis-email-not-valid.png" />
+<img src="screenshots/regis-work-1.png" />            <img src="screenshots/regis-work-2.png" />
+<img src="screenshots/regis-usn-used.png" />
+
 
