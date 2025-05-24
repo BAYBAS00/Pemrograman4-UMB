@@ -19,22 +19,22 @@ Aplikasi Android sederhana dengan fitur Login dan Register
 
 ## Screenshots Tampilan
 ---
-<img src="screenshots/tampil-login.png" />
-<img src="screenshots/tampil-regis.png" />
-<img src="screenshots/tampil-main.png" />
+<img src="screenshots/tampil-login.png width="45%"" />
+<img src="screenshots/tampil-regis.png width="45%"" />
+<img src="screenshots/tampil-main.png width="45%"" />
 
 ## HASIL UJI COBA EMULATOR
 ---
 Fungsionalitas Login & Main Activity
 ---
-<img src="screenshots/login.png" />    <img src="screenshots/login-usn-or-pass-wrong.png" />
-<img src="screenshots/login-work.png" />
+<img src="screenshots/login.png width="45%"" />    <img src="screenshots/login-usn-or-pass-wrong.png width="45%"" />
+<img src="screenshots/login-work.png width="45%"" />
 
 Fungsionalitas Register
 ---
-<img src="screenshots/regis-pass-less-6.png" />       <img src="screenshots/regis-email-not-valid.png" />
+<img src="screenshots/regis-pass-less-6.png width="45%"" />       <img src="screenshots/regis-email-not-valid.png width="45%"" />
 <img src="screenshots/regis-work-1.png" width="400" height="600" />            <img src="screenshots/regis-work-2.png" width="400" height="600" />
-<img src="screenshots/regis-usn-used.png" />
+<img src="screenshots/regis-usn-used.png width="45%"" />
 
 ## DATA DIRI
 ---
